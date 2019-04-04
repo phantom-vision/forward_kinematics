@@ -1,0 +1,8 @@
+prefix=/home/sachin/Desktop/ws/forward_kinematics/ws/devel
+
+Name: dynamixel_workbench_operators
+Description: Description of dynamixel_workbench_operators
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/sachin/Desktop/ws/forward_kinematics/ws/devel/lib 
+Requires: roscpp dynamixel_workbench_msgs

@@ -1,8 +1,0 @@
-prefix=/home/sachin/Desktop/ws/roboauton_lab2/install
-
-Name: dynamixel_workbench_toolbox
-Description: Description of dynamixel_workbench_toolbox
-Version: 1.0.0
-Cflags: -I/home/sachin/Desktop/ws/roboauton_lab2/install/include
-Libs: -L/home/sachin/Desktop/ws/roboauton_lab2/install/lib -ldynamixel_workbench_toolbox
-Requires: roscpp dynamixel_sdk

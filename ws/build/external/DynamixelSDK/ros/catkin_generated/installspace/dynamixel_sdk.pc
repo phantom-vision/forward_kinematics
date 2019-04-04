@@ -1,0 +1,8 @@
+prefix=/home/sachin/Desktop/ws/forward_kinematics/ws/install
+
+Name: dynamixel_sdk
+Description: Description of dynamixel_sdk
+Version: 3.7.0
+Cflags: -I/home/sachin/Desktop/ws/forward_kinematics/ws/install/include
+Libs: -L/home/sachin/Desktop/ws/forward_kinematics/ws/install/lib -ldynamixel_sdk
+Requires: roscpp rospy
